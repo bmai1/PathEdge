@@ -1,4 +1,7 @@
 gen2.py
+generate.py
+generate.json
+
 *.jpeg
 *.jpg
 *.png
