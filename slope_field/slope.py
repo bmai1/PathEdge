@@ -27,4 +27,5 @@ def generate_slope_field(image_path, step_size=10):
 
     plt.show()
 
-generate_slope_field("../saber.jpg")
+# replace file path accordingly
+generate_slope_field("../images/saber.jpg")
