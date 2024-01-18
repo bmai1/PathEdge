@@ -5,3 +5,5 @@ Usage:
 - Change image_path in generate.py to your image path, should place in same dir as generate.py
 - Change generate.json in generate.py to your PathPlanner path (you may need to rename the .path to .json for it to work)
 - Run python3 generate.py
+
+<img width="666" alt="pathplanner" src="https://github.com/bmai1/PathEdge/assets/104703637/96aaac37-f435-4b59-915d-25456d073c27">
